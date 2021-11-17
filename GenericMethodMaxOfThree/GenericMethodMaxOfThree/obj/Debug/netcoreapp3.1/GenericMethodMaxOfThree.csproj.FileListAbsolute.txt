@@ -1,0 +1,19 @@
+D:\bridgelabz\.NET problems\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.csproj.CoreCompileInputs.cache
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\bin\Debug\netcoreapp3.1\GenericMethodMaxOfThree.exe
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\bin\Debug\netcoreapp3.1\GenericMethodMaxOfThree.deps.json
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\bin\Debug\netcoreapp3.1\GenericMethodMaxOfThree.runtimeconfig.json
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\bin\Debug\netcoreapp3.1\GenericMethodMaxOfThree.runtimeconfig.dev.json
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\bin\Debug\netcoreapp3.1\GenericMethodMaxOfThree.dll
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\bin\Debug\netcoreapp3.1\GenericMethodMaxOfThree.pdb
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.csproj.AssemblyReference.cache
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.AssemblyInfoInputs.cache
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.AssemblyInfo.cs
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.csproj.CoreCompileInputs.cache
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.dll
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.pdb
+D:\bridgelabz\BRIDGELABZday13\GenericMethodMaxOfThree\GenericMethodMaxOfThree\obj\Debug\netcoreapp3.1\GenericMethodMaxOfThree.genruntimeconfig.cache
