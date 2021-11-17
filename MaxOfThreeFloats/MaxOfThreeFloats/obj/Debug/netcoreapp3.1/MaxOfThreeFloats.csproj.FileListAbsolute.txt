@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\bin\Debug\netcoreapp3.1\MaxOfThreeFloats.exe
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\bin\Debug\netcoreapp3.1\MaxOfThreeFloats.deps.json
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\bin\Debug\netcoreapp3.1\MaxOfThreeFloats.runtimeconfig.json
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\bin\Debug\netcoreapp3.1\MaxOfThreeFloats.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\bin\Debug\netcoreapp3.1\MaxOfThreeFloats.dll
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\bin\Debug\netcoreapp3.1\MaxOfThreeFloats.pdb
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.dll
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.pdb
+D:\bridgelabz\.NET problems\MaxOfThreeFloats\MaxOfThreeFloats\obj\Debug\netcoreapp3.1\MaxOfThreeFloats.genruntimeconfig.cache
