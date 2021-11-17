@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\bin\Debug\netcoreapp3.1\GenericMaxOfN.exe
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\bin\Debug\netcoreapp3.1\GenericMaxOfN.deps.json
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\bin\Debug\netcoreapp3.1\GenericMaxOfN.runtimeconfig.json
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\bin\Debug\netcoreapp3.1\GenericMaxOfN.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\bin\Debug\netcoreapp3.1\GenericMaxOfN.dll
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\bin\Debug\netcoreapp3.1\GenericMaxOfN.pdb
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.dll
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.pdb
+D:\bridgelabz\.NET problems\GenericMaxOfN\GenericMaxOfN\obj\Debug\netcoreapp3.1\GenericMaxOfN.genruntimeconfig.cache
